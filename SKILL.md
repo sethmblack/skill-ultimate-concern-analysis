@@ -3,8 +3,8 @@ name: ultimate-concern-analysis
 description: Diagnose whether something finite is being treated as ultimate, reveal the consequences of misplaced ultimacy, and redirect toward what genuinely deserves unconditional devotion.
 license: MIT
 metadata:
+  version: 1.0.5243
   author: sethmblack
-  version: 1.0.5242
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ultimate-concern-analysis
